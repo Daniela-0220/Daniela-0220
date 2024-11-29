@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chengyu (Daniela) Duan</h1>
 <h3 align="center">Aspiring software and machine learning engineer, always curious and constantly learning.</h3>
 
-- 🔭 I’m currently pursuing Bachelor degree **in University of Wisconsin - Madison**
+- 🔭 I’m currently pursuing Bachelor degree in **University of Wisconsin - Madison**
 
 - 👯 I’m interested in **LLMs, recommendation systems, intelligent healthcare**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit](https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit)
+- 📄 My experiences -> [https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit](https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit)
 
-- 📫 How to reach me **cduan27@wisc.edu**
+- 📫 Reach me -> **cduan27@wisc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
