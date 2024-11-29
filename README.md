@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chengyu (Daniela) Duan</h1>
-<h3 align="center">Aspiring software and machine learning engineer, always curious and constantly learning.</h3>
+<h5 align="center">Aspiring software and machine learning engineer, always curious and constantly learning.</h5>
 
 - 🔭 I’m currently pursuing Bachelor degree in **University of Wisconsin - Madison**
 
