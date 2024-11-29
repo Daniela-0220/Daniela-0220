@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Chengyu (Daniela) Duan</h1>
 <h3 align="center">Aspiring software and machine learning engineer, always curious and constantly learning.</h3>
 
