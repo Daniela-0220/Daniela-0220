@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chengyu (Daniela) Duan</h1>
 <h4 align="center"> -- Aspiring software and machine learning engineer, always curious and constantly learning.</h4>
 
-- 🔭 I’m currently pursuing Bachelor degree in **University of Wisconsin - Madison**
+- 🔭 I’m currently pursuing Master degree in **Georgia Institue of Technology**
 
-- 👯 I’m interested in **LLMs, recommendation systems, intelligent healthcare**
+- 🔭 I complete my Bachelor degree in **University of Wisconsin - Madison**
+
+- 👯 I’m interested in **LLMs, recommendation systems, computer vision**
 
 - 📄 My experiences -> [https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit](https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit)
 
-- 📫 Reach me -> **cduan27@wisc.edu**
+- 📫 Reach me -> **cduan27@wisc.edu or cduan39@gatech.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
