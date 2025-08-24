@@ -7,7 +7,7 @@
 
 - 👯 I’m interested in **LLMs, recommendation systems, computer vision**
 
-- 📄 My experiences -> [https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit](https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit)
+- 📄 My experiences -> [[https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit](https://docs.google.com/document/d/10Nsab8D1S1oWTkD9uRZCV87YzrBfz2tj/edit?usp=sharing&ouid=100133478416930771878&rtpof=true&sd=true)]([https://docs.google.com/document/d/1p3opngIvov-abybqo2DkQT3P9Nr49rGU/edit](https://docs.google.com/document/d/10Nsab8D1S1oWTkD9uRZCV87YzrBfz2tj/edit?usp=sharing&ouid=100133478416930771878&rtpof=true&sd=true))
 
 - 📫 Reach me -> **cduan27@wisc.edu or cduan39@gatech.edu**
 
